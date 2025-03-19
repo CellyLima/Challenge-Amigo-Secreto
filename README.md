@@ -80,6 +80,11 @@ https://www.makeareadme.com/
 Github:
 https://docs.github.com/pt
 
+## Ilustração 
+
+![Imagem amigo secreto](https://github.com/user-attachments/assets/0d6052ea-9934-4c15-8855-b12424e27633)
+
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
