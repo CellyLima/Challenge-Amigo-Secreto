@@ -54,11 +54,11 @@ function adicionarAmigo(){}
 
 function sortearAmigo(){}
 
-elemento <li> 
+elemento < li >  
 
 function exibirAmigos(){}
 
-function reiniciarSorteio().
+function reiniciarSorteio()
 
 ## Documentação
 
